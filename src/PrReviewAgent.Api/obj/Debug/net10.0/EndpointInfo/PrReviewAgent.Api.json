@@ -1,0 +1,116 @@
+{
+  "openapi": "3.1.1",
+  "info": {
+    "title": "PrReviewAgent.Api | v1",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:5006"
+    }
+  ],
+  "paths": {
+    "/api/webhooks/azuredevops": {
+      "post": {
+        "tags": [
+          "AzureDevOpsWebhook"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AzureDevOpsWebhookPayload"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AzureDevOpsWebhookPayload"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AzureDevOpsWebhookPayload"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "AzureDevOpsRepository": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "name": {
+            "type": [
+              "null",
+              "string"
+            ]
+          }
+        }
+      },
+      "AzureDevOpsResource": {
+        "type": "object",
+        "properties": {
+          "pullRequestId": {
+            "pattern": "^-?(?:0|[1-9]\\d*)$",
+            "type": [
+              "integer",
+              "string"
+            ],
+            "format": "int32"
+          },
+          "repository": {
+            "oneOf": [
+              {
+                "type": "null"
+              },
+              {
+                "$ref": "#/components/schemas/AzureDevOpsRepository"
+              }
+            ]
+          }
+        }
+      },
+      "AzureDevOpsWebhookPayload": {
+        "type": "object",
+        "properties": {
+          "eventType": {
+            "type": [
+              "null",
+              "string"
+            ]
+          },
+          "resource": {
+            "oneOf": [
+              {
+                "type": "null"
+              },
+              {
+                "$ref": "#/components/schemas/AzureDevOpsResource"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "AzureDevOpsWebhook"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZbST01QuVM8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VKUM824\\OneDrive - Pearson\\Desktop\\PR Review\\src\\PrReviewAgent.Api\\PrReviewAgent.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VKUM824\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\VKUM824\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}

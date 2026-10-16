@@ -1,0 +1,90 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "PrReviewAgent.Application/1.0.0": {
+        "dependencies": {
+          "PrReviewAgent.AI": "1.0.0",
+          "PrReviewAgent.AzureDevOps": "1.0.0",
+          "PrReviewAgent.Core": "1.0.0",
+          "PrReviewAgent.Snyk": "1.0.0"
+        },
+        "runtime": {
+          "PrReviewAgent.Application.dll": {}
+        }
+      },
+      "PrReviewAgent.AI/1.0.0": {
+        "dependencies": {
+          "PrReviewAgent.Core": "1.0.0"
+        },
+        "runtime": {
+          "PrReviewAgent.AI.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PrReviewAgent.AzureDevOps/1.0.0": {
+        "dependencies": {
+          "PrReviewAgent.Core": "1.0.0"
+        },
+        "runtime": {
+          "PrReviewAgent.AzureDevOps.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PrReviewAgent.Core/1.0.0": {
+        "runtime": {
+          "PrReviewAgent.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PrReviewAgent.Snyk/1.0.0": {
+        "dependencies": {
+          "PrReviewAgent.Core": "1.0.0"
+        },
+        "runtime": {
+          "PrReviewAgent.Snyk.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrReviewAgent.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrReviewAgent.AI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrReviewAgent.AzureDevOps/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrReviewAgent.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrReviewAgent.Snyk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "PrReviewAgent.Api.Controllers.AzureDevOpsWebhookController",
+    "Method": "ReceiveAsync",
+    "RelativePath": "api/webhooks/azuredevops",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "payload",
+        "Type": "PrReviewAgent.Api.Controllers.AzureDevOpsWebhookPayload",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PrReviewAgent.AI/PrReviewAgent.AI.csproj" />
+    <Project Path="src/PrReviewAgent.Api/PrReviewAgent.Api.csproj" />
+    <Project Path="src/PrReviewAgent.Application/PrReviewAgent.Application.csproj" />
+    <Project Path="src/PrReviewAgent.AzureDevOps/PrReviewAgent.AzureDevOps.csproj" />
+    <Project Path="src/PrReviewAgent.Core/PrReviewAgent.Core.csproj" />
+    <Project Path="src/PrReviewAgent.Snyk/PrReviewAgent.Snyk.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PrReviewAgent.IntegrationTests/PrReviewAgent.IntegrationTests.csproj" />
+    <Project Path="tests/PrReviewAgent.UnitTests/PrReviewAgent.UnitTests.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,19 @@
+﻿{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "AzureDevOps": {
+    "Organization": "<your-org>",
+    "Project": "<your-project>",
+    "BaseUrl": "https://dev.azure.com"
+  },
+  "AzureOpenAI": {
+    "Endpoint": "https://<your-resource>.openai.azure.com/",
+    "DeploymentName": "<your-deployment>",
+    "ApiVersion": "2024-10-21"
+  }
+}

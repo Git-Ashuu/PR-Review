@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\PrReviewAgent.Core\PrReviewAgent.Core.csproj" />
+    <ProjectReference Include="..\PrReviewAgent.AzureDevOps\PrReviewAgent.AzureDevOps.csproj" />
+    <ProjectReference Include="..\PrReviewAgent.AI\PrReviewAgent.AI.csproj" />
+    <ProjectReference Include="..\PrReviewAgent.Snyk\PrReviewAgent.Snyk.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

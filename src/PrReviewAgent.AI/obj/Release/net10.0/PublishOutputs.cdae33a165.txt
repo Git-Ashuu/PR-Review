@@ -1,0 +1,5 @@
+c:\Users\VKUM824\OneDrive - Pearson\Desktop\PR Review\src\PrReviewAgent.AI\bin\Release\net10.0\publish\PrReviewAgent.AI.dll
+c:\Users\VKUM824\OneDrive - Pearson\Desktop\PR Review\src\PrReviewAgent.AI\bin\Release\net10.0\publish\PrReviewAgent.AI.deps.json
+c:\Users\VKUM824\OneDrive - Pearson\Desktop\PR Review\src\PrReviewAgent.AI\bin\Release\net10.0\publish\PrReviewAgent.AI.pdb
+c:\Users\VKUM824\OneDrive - Pearson\Desktop\PR Review\src\PrReviewAgent.AI\bin\Release\net10.0\publish\PrReviewAgent.Core.dll
+c:\Users\VKUM824\OneDrive - Pearson\Desktop\PR Review\src\PrReviewAgent.AI\bin\Release\net10.0\publish\PrReviewAgent.Core.pdb

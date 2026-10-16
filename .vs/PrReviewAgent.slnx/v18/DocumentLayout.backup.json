@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VKUM824\\OneDrive - Pearson\\Desktop\\PR Review\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6086AFE6-FC7A-520C-AF6F-22C720BEB6D4}|src\\PrReviewAgent.Application\\PrReviewAgent.Application.csproj|c:\\users\\vkum824\\onedrive - pearson\\desktop\\pr review\\src\\prreviewagent.application\\revieworchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6086AFE6-FC7A-520C-AF6F-22C720BEB6D4}|src\\PrReviewAgent.Application\\PrReviewAgent.Application.csproj|solutionrelative:src\\prreviewagent.application\\revieworchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBE0497-FC8D-3711-66D3-36CEB27556D4}|src\\PrReviewAgent.Api\\PrReviewAgent.Api.csproj|c:\\users\\vkum824\\onedrive - pearson\\desktop\\pr review\\src\\prreviewagent.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBE0497-FC8D-3711-66D3-36CEB27556D4}|src\\PrReviewAgent.Api\\PrReviewAgent.Api.csproj|solutionrelative:src\\prreviewagent.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0836ACA-A803-E004-DA1E-206D6EB4905F}|src\\PrReviewAgent.AI\\PrReviewAgent.AI.csproj|c:\\users\\vkum824\\onedrive - pearson\\desktop\\pr review\\src\\prreviewagent.ai\\reviewresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0836ACA-A803-E004-DA1E-206D6EB4905F}|src\\PrReviewAgent.AI\\PrReviewAgent.AI.csproj|solutionrelative:src\\prreviewagent.ai\\reviewresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0836ACA-A803-E004-DA1E-206D6EB4905F}|src\\PrReviewAgent.AI\\PrReviewAgent.AI.csproj|c:\\users\\vkum824\\onedrive - pearson\\desktop\\pr review\\src\\prreviewagent.ai\\azureopenaireviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0836ACA-A803-E004-DA1E-206D6EB4905F}|src\\PrReviewAgent.AI\\PrReviewAgent.AI.csproj|solutionrelative:src\\prreviewagent.ai\\azureopenaireviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBE0497-FC8D-3711-66D3-36CEB27556D4}|src\\PrReviewAgent.Api\\PrReviewAgent.Api.csproj|c:\\users\\vkum824\\onedrive - pearson\\desktop\\pr review\\src\\prreviewagent.api\\controllers\\azuredevopswebhookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CBE0497-FC8D-3711-66D3-36CEB27556D4}|src\\PrReviewAgent.Api\\PrReviewAgent.Api.csproj|solutionrelative:src\\prreviewagent.api\\controllers\\azuredevopswebhookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBE0497-FC8D-3711-66D3-36CEB27556D4}|src\\PrReviewAgent.Api\\PrReviewAgent.Api.csproj|c:\\users\\vkum824\\onedrive - pearson\\desktop\\pr review\\src\\prreviewagent.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CBE0497-FC8D-3711-66D3-36CEB27556D4}|src\\PrReviewAgent.Api\\PrReviewAgent.Api.csproj|solutionrelative:src\\prreviewagent.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBE0497-FC8D-3711-66D3-36CEB27556D4}|src\\PrReviewAgent.Api\\PrReviewAgent.Api.csproj|c:\\users\\vkum824\\onedrive - pearson\\desktop\\pr review\\src\\prreviewagent.api\\prreviewagent.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7CBE0497-FC8D-3711-66D3-36CEB27556D4}|src\\PrReviewAgent.Api\\PrReviewAgent.Api.csproj|solutionrelative:src\\prreviewagent.api\\prreviewagent.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VKUM824\\OneDrive - Pearson\\Desktop\\PR Review\\src\\PrReviewAgent.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\PrReviewAgent.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\VKUM824\\OneDrive - Pearson\\Desktop\\PR Review\\src\\PrReviewAgent.Api\\Program.cs",
+              "RelativeToolTip": "src\\PrReviewAgent.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T14:45:27.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReviewOrchestrator.cs",
+              "DocumentMoniker": "C:\\Users\\VKUM824\\OneDrive - Pearson\\Desktop\\PR Review\\src\\PrReviewAgent.Application\\ReviewOrchestrator.cs",
+              "RelativeDocumentMoniker": "src\\PrReviewAgent.Application\\ReviewOrchestrator.cs",
+              "ToolTip": "C:\\Users\\VKUM824\\OneDrive - Pearson\\Desktop\\PR Review\\src\\PrReviewAgent.Application\\ReviewOrchestrator.cs",
+              "RelativeToolTip": "src\\PrReviewAgent.Application\\ReviewOrchestrator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:28:04.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewResult.cs",
+              "DocumentMoniker": "C:\\Users\\VKUM824\\OneDrive - Pearson\\Desktop\\PR Review\\src\\PrReviewAgent.AI\\ReviewResult.cs",
+              "RelativeDocumentMoniker": "src\\PrReviewAgent.AI\\ReviewResult.cs",
+              "ToolTip": "C:\\Users\\VKUM824\\OneDrive - Pearson\\Desktop\\PR Review\\src\\PrReviewAgent.AI\\ReviewResult.cs",
+              "RelativeToolTip": "src\\PrReviewAgent.AI\\ReviewResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:27:50.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AzureOpenAIReviewer.cs",
+              "DocumentMoniker": "C:\\Users\\VKUM824\\OneDrive - Pearson\\Desktop\\PR Review\\src\\PrReviewAgent.AI\\AzureOpenAIReviewer.cs",
+              "RelativeDocumentMoniker": "src\\PrReviewAgent.AI\\AzureOpenAIReviewer.cs",
+              "ToolTip": "C:\\Users\\VKUM824\\OneDrive - Pearson\\Desktop\\PR Review\\src\\PrReviewAgent.AI\\AzureOpenAIReviewer.cs",
+              "RelativeToolTip": "src\\PrReviewAgent.AI\\AzureOpenAIReviewer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:27:15.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VKUM824\\OneDrive - Pearson\\Desktop\\PR Review\\src\\PrReviewAgent.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\PrReviewAgent.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\VKUM824\\OneDrive - Pearson\\Desktop\\PR Review\\src\\PrReviewAgent.Api\\appsettings.json",
+              "RelativeToolTip": "src\\PrReviewAgent.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-18T10:05:18.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AzureDevOpsWebhookController.cs",
+              "DocumentMoniker": "C:\\Users\\VKUM824\\OneDrive - Pearson\\Desktop\\PR Review\\src\\PrReviewAgent.Api\\Controllers\\AzureDevOpsWebhookController.cs",
+              "RelativeDocumentMoniker": "src\\PrReviewAgent.Api\\Controllers\\AzureDevOpsWebhookController.cs",
+              "ToolTip": "C:\\Users\\VKUM824\\OneDrive - Pearson\\Desktop\\PR Review\\src\\PrReviewAgent.Api\\Controllers\\AzureDevOpsWebhookController.cs",
+              "RelativeToolTip": "src\\PrReviewAgent.Api\\Controllers\\AzureDevOpsWebhookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T10:02:11.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrReviewAgent.Api",
+              "DocumentMoniker": "C:\\Users\\VKUM824\\OneDrive - Pearson\\Desktop\\PR Review\\src\\PrReviewAgent.Api\\PrReviewAgent.Api.csproj",
+              "RelativeDocumentMoniker": "src\\PrReviewAgent.Api\\PrReviewAgent.Api.csproj",
+              "ToolTip": "C:\\Users\\VKUM824\\OneDrive - Pearson\\Desktop\\PR Review\\src\\PrReviewAgent.Api\\PrReviewAgent.Api.csproj",
+              "RelativeToolTip": "src\\PrReviewAgent.Api\\PrReviewAgent.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-18T10:02:09.438Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
